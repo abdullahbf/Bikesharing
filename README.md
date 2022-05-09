@@ -30,7 +30,7 @@ This viz breaks down the tripdurations by gender. Most of the users were male bu
 
 ![NYC Citibike Story (8)](https://user-images.githubusercontent.com/92544151/167493851-09cfda6e-af2f-40e9-8fd4-e3e9b8ae17f8.png)
 
-Fifth visualization in the story shows bike usage by weekday and the time of the day. Commute hours were the busiest from Monday to Friday. On the other hand, service usage was spread out late morning to early evening. 
+Fifth visualization in the story shows bike usage by day of the week and the time of the day. Commute hours were the busiest from Monday to Friday. On the other hand, service usage was spread out late morning to early evening on weekends. 
 
 ![NYC Citibike Story (5)](https://user-images.githubusercontent.com/92544151/167490922-344e64d0-5f56-4ce4-b4ae-402b62c34107.png) ![NYC Citibike Story (7)](https://user-images.githubusercontent.com/92544151/167490959-7dca106f-932e-46da-9a3c-aa08cd5cc456.png)
 
@@ -38,7 +38,7 @@ This one combines the fifth visualization with the gender component and the resu
 
 ![NYC Citibike Story (6)](https://user-images.githubusercontent.com/92544151/167490978-6c5e1bbb-2ee7-4347-ad64-8097794b45f7.png)
 
-Vast majority of the users were subscribers and this is enouraging for someone looking to start a similar project. These subscribers guarantee a somewhat consistent revenue stream.
+Vast majority of the users were subscribers and this is enouraging for someone looking to start a similar project. These subscribers guarantee a consistent revenue stream.
 
 ## Summary:
 
