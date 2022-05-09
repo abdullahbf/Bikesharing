@@ -32,7 +32,7 @@ This viz breaks down the tripdurations by gender. Most of the users were male bu
 
 Fifth visualization in the story shows bike usage by day of the week and the time of the day. Commute hours were the busiest from Monday to Friday. On the other hand, service usage was spread out late morning to early evening on weekends. 
 
-![NYC Citibike Story (5)](https://user-images.githubusercontent.com/92544151/167490922-344e64d0-5f56-4ce4-b4ae-402b62c34107.png) ![NYC Citibike Story (7)](https://user-images.githubusercontent.com/92544151/167490959-7dca106f-932e-46da-9a3c-aa08cd5cc456.png)
+![NYC Citibike Story (5)](https://user-images.githubusercontent.com/92544151/167490922-344e64d0-5f56-4ce4-b4ae-402b62c34107.png) 
 
 This one combines the fifth visualization with the gender component and the resulting patterns were as expected. 
 
